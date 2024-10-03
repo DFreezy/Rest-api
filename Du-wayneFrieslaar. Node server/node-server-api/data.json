@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Steel",
+    "power": 47,
+    "wielder": "Robot",
+    "id": 0
+  },
+  {
+    "name": "Fire",
+    "power": 56,
+    "wielder": "Dragon",
+    "id": 1
+  },
+  {
+    "name": "Electric",
+    "power": 74,
+    "wielder": "Eal",
+    "id": 2
+  },
+  {
+    "name": "Plastic hammer",
+    "power": 24,
+    "wielder": "Gnome",
+    "id": 3
+  }
+]
